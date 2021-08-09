@@ -40,10 +40,10 @@ Esse projeto foi feito utilizando as seguintes tecnologias:
 $ git clone https://github.com/gvieiram/ToDo.git
 ```
 
-### 💻 Rode o Projeto
+###### 💻 Rode o Projeto
 
 ```bash
-# Vá para a pasta web
+# Vá para a pasta onde clonou o projeto
 $ cd suaPasta
 
 # Instale as dependências
